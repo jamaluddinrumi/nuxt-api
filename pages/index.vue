@@ -1,7 +1,11 @@
 <template>
-  <Tutorial/>
+  <Tutorial />
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'NuxtJS API',
+  },
+}
 </script>
